@@ -6,6 +6,6 @@
 
 ### Installation: yourdomain/install.php
 
-DEMO: [https://urlc.in/](https://urlc.in/)
+### DEMO: [https://urlc.in](https://urlc.in)
 
 ![Screenshot](./Screenshot.png)
